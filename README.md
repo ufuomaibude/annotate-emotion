@@ -1,4 +1,4 @@
-# annotate-emotion
+# Sentiment Analysis
 Project Title: Annotation Project on Emotion - Based Sentiment Classification Using Social Media Data.
 
 # Project Overview
